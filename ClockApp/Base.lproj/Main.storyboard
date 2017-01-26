@@ -34,10 +34,13 @@
                             <constraint firstItem="KgQ-DG-z2K" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="SY9-xf-T5K"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="textLabel" destination="KgQ-DG-z2K" id="nPe-xW-X24"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="136.80000000000001" y="138.98050974512745"/>
+            <point key="canvasLocation" x="289" y="133"/>
         </scene>
     </scenes>
 </document>
